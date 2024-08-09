@@ -444,5 +444,4 @@ object MongoJoinsExample extends App {
 
 ![Motivational Image](motivationa_image.jpg)
 
-> **"Where there is a will, there is a way !"**  
-> *— Proverb*
+> **"Where there is a will, there is a way !"**
